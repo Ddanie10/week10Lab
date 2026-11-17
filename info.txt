@@ -1,4 +1,6 @@
-My name is Dillon
-I am in computer programming
-I hope to learn how to program
-I am currently learning git and github
+My name is Dillon!
+I am in computer programming!
+I hope to learn how to program!
+I am currently learning git and github!
+
+Excellent info! -Brady
